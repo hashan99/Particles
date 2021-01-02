@@ -5,10 +5,10 @@
 ------------------------------
 ### `Demo / Generator`
 
-<a href="http://52.139.220.136/particles/demo/" target="_blank"><img src="https://res.cloudinary.com/db957qd0z/image/upload/v1609523397/logos/Screenshot_5206_ejf0wy.png" alt="particles.js generator" /></a>
+<a href="https://particles.spreadin.me/" target="_blank"><img src="https://res.cloudinary.com/db957qd0z/image/upload/v1609523397/logos/Screenshot_5206_ejf0wy.png" alt="particles.js generator" /></a>
 
 Try my demo here: <br />
- http://52.139.220.136/particles/demo/
+https://particles.spreadin.me/
 
 Configure, export, and share your particles.js configuration on CodePen: <br />
 http://vincentgarreau.com/particles.js/
